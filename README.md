@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="mellow architecture" src="https://github.com/user-attachments/assets/16f16da1-e2a0-4d18-be6f-a656de631815" /># MELLOW by COLL666
+# MELLOW by COLL666
 **Team:** Chuah Yan Shen, Lim Zhi Ying, Lim Jia Ying, Ooi Wei Jin
 
 **Problem Statement:** Stress & Workload Manager
