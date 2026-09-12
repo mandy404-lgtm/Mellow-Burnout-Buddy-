@@ -147,9 +147,17 @@ This user flow illustrates the **student's journey through Mellow**, from checki
 
 
 3. Design & Prototype
-UI Prototype: [ Public Link ]
-Check that it opens in an incognito window. This can be a link to Figma, Canva, Netlify, Vercel or any other board where you showcase your UI. It can be clickable with hyperlinks or simply ordered screenshots.
-We recommend you embed or link 4–8 key screens as images, with a caption on each explaining the interaction
+UI Prototype: https://www.figma.com/proto/Z5bfmgFRdOzC3FEHma1vk5/Mellow--Real-Prototype-?node-id=6-711&p=f&t=a2nfJ5dnzjCWw9Xt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A711&show-proto-sidebar=1
+
+|<img width="245" height="572" alt="Screenshot 2026-09-13 000724" src="https://github.com/user-attachments/assets/467f45f9-e630-46f7-a08f-935f1707ffe3" />|<img width="251" height="550" alt="Screenshot 2026-09-12 214616" src="https://github.com/user-attachments/assets/94e6f9f5-8ba1-4a8d-9f62-fb0cd22d01a2" />|
+| --- | --- |
+| Screen 1 — Main Dashboard & workload visualizer | Screen 2 — View task and add task |
+|<img width="252" height="556" alt="Screenshot 2026-09-12 214827" src="https://github.com/user-attachments/assets/2a9ac51c-fa59-4553-ac52-a277f6a7b71b" />|<img width="255" height="557" alt="Screenshot 2026-09-12 215146" src="https://github.com/user-attachments/assets/ddc0c05a-5cf9-43ba-ab58-4522ae62653d" />|
+|Screen 3 — Analytics and forecast|Screen 4 — Recovery nudge|
+|<img width="282" height="623" alt="Screenshot 2026-09-12 215414" src="https://github.com/user-attachments/assets/d0338fa2-0c27-4cf2-8d5b-1369469cc835" />|<img width="216" height="483" alt="Screenshot 2026-09-12 215545" src="https://github.com/user-attachments/assets/01aff13b-386c-4700-aa7d-f49cb945a33e" />|
+|Assistant & Recommendation page|Rebalance page (When capacity >= 80)|
+|<img width="318" height="702" alt="Screenshot 2026-09-13 002230" src="https://github.com/user-attachments/assets/ec53cd07-196f-4006-9f16-7fc6279b157c" />|<img width="321" height="705" alt="Screenshot 2026-09-13 002240" src="https://github.com/user-attachments/assets/d98e5c44-d7fe-437e-b9f5-b03631529729" />| 
+| Post-rebalance schedule | Personalized recovery suggestion |
 
 # 💡 4. What Makes It Different
 
