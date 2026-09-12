@@ -248,7 +248,7 @@ Mellow's novelty lies in combining **multi-dimensional workload measurement, cap
 | **Version Control** | **GitHub** | Supports team collaboration, feature branches, and version tracking. | **Constraint:** Merge conflicts. **Mitigation:** Separate work by feature and use regular merges. |
 
 ## 🔄 System Architecture
-![SystemArchitecture](<img width="1106" height="962" alt="mellow architecture" src="https://github.com/user-attachments/assets/8157fe13-45dc-49db-a4de-b0753a4f1271" />
+![SystemArchitecture](<img width="1920" height="1080" alt="mellowArchitecture" src="https://github.com/user-attachments/assets/4948e1e1-5e68-44df-9c2d-e67d3d79501a" />
 )
 
 ## 🛠️ Build Plan & Scope
