@@ -252,16 +252,22 @@ Mellow's novelty lies in combining **multi-dimensional workload measurement, cap
 
 > Explicitly tell the reviewer what you plan to build during the building phase. Narrow scope will read as realistic and feasible, not as a lack of ambition.
 
+## 📅 Development Plan
+
 | Timeline | Build Focus | Features / Functions to Implement | Expected Output |
 |---|---|---|---|
 | **Day 1–2** | **System Foundation & UI** | Set up Mellow application structure, database, navigation, task model, workload categories, and basic dashboard UI. | Working app structure with Dashboard, Tasks, and Settings screens. |
-| **Day 3–4** | **Digital Mascot & Capacity Visualizer** | Implement the 0–100% Unified Capacity Score, five workload dimensions (Mental, Time, Physical, Social, Errands), capacity wheel, and mascot states. | Users can immediately see their overall workload and current mascot state. |
-| **Day 5–6** | **Task & Workload Management** | Add/create/edit/delete tasks, deadlines, workload category, stress level, importance, and milestone progress (0%, 25%, 50%, 75%, 100%). | Complete task management system connected to capacity calculation. |
-| **Day 7–8** | **Burnout Shield & Circuit Breaker** | Implement 65% Early Warning and 80% Circuit Breaker. At 80%, show workload alert, require task progress update, and activate the “Should I Say Yes?” Gatekeeper. | Mellow actively responds when workload becomes high instead of only recording it. |
-| **Day 9–10** | **Load Balancer & Recovery** | Implement rule-based 1-Tap Rebalancing, automatically postponing low-priority/non-essential tasks. Add recovery nudges based on the highest workload area. | User receives actionable ways to reduce workload and recover. |
-| **Day 11–12** | **AI Assistance & Personalization** | Implement a limited AI recovery recommendation and personalized recovery messages. AI focuses on generating recommendations rather than calculating the core capacity score. | Personalized recovery advice appears when capacity exceeds 80%. |
-| **Day 13** | **Integration & Testing** | Connect all core features, test capacity calculations, task prioritization, circuit-breaker triggers, task postponement, and mascot state changes. | Fully integrated prototype with major bugs fixed. |
-| **Day 14** | **Polishing & Demo Preparation** | Improve UI/UX, mascot animations/states, error handling, demo data, and prepare the final demonstration scenario. | Final polished prototype ready for demonstration. |
+| **Day 3–4** | **Task & Workload Management** | Implement task creation, editing, deletion, deadlines, workload category, stress level, importance, and progress milestones (0%, 25%, 50%, 75%, 100%). | Complete task management system. |
+| **Day 5–6** | **Capacity Calculation** | Implement the five workload dimensions (Mental, Time, Physical, Social, Errands) and the 0–100% Unified Capacity Score. | Working capacity calculation connected to user tasks. |
+| **Day 7–8** | **Digital Mascot & Visualization** | Develop the capacity wheel and Digital Mascot states that change according to the user's workload level. | Users can visualize their current workload and capacity. |
+| **Day 9–10** | **Burnout Shield & Circuit Breaker** | Implement the 65% Early Warning and 80% Circuit Breaker. At 80%, trigger workload alerts and require task progress updates. | Mellow actively responds when workload becomes high. |
+| **Day 11–12** | **Commitment & Load Balancing** | Implement the "Should I Say Yes?" Gatekeeper and rule-based 1-Tap Rebalancing to postpone low-priority/non-essential tasks. | Users can prevent over-commitment and reduce workload. |
+| **Day 13–14** | **Recovery System** | Implement recovery nudges based on the user's highest workload area and connect recovery actions to capacity changes. | Actionable recovery suggestions with capacity feedback. |
+| **Day 15–16** | **AI Assistance & Personalization** | Implement limited AI-powered recovery recommendations and personalized recovery messages. AI supports recommendations rather than calculating the core capacity score. | Personalized recovery advice when capacity is high. |
+| **Day 17–18** | **Workload Forecasting & Refinement** | Add basic workload forecasting and refine task prioritization, capacity calculations, and intervention rules. | Improved workload awareness and recommendations. |
+| **Day 19** | **System Integration** | Connect the complete workflow from task input to capacity calculation, intervention, rebalancing, and recovery. | Fully integrated prototype. |
+| **Day 20** | **Testing & Bug Fixing** | Test capacity calculations, task prioritization, circuit-breaker triggers, task postponement, mascot states, AI recommendations, and edge cases. | Stable prototype with major bugs resolved. |
+| **Day 21** | **UI/UX & Demo Preparation** | Polish UI, mascot states, animations, error handling, demo data, documentation, and final demonstration scenario. | Final polished prototype ready for demonstration. |
 
 
 
