@@ -185,6 +185,8 @@ UI Prototype: https://www.figma.com/proto/Z5bfmgFRdOzC3FEHma1vk5/Mellow--Real-Pr
 |Assistant & Recommendation page|Rebalance page (When capacity >= 80)|
 |<img width="318" height="702" alt="Screenshot 2026-09-13 002230" src="https://github.com/user-attachments/assets/ec53cd07-196f-4006-9f16-7fc6279b157c" />|<img width="321" height="705" alt="Screenshot 2026-09-13 002240" src="https://github.com/user-attachments/assets/d98e5c44-d7fe-437e-b9f5-b03631529729" />| 
 | Post-rebalance schedule | Personalized recovery suggestion |
+| ![Capacity Detail](images/capacity_detail.png) | |
+| Capacity Details | |
 
 # 💡 4. What Makes It Different
 
