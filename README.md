@@ -1,4 +1,4 @@
-# MELLOW by COLL666
+<img width="1920" height="1080" alt="mellow architecture" src="https://github.com/user-attachments/assets/16f16da1-e2a0-4d18-be6f-a656de631815" /># MELLOW by COLL666
 **Team:** Chuah Yan Shen, Lim Zhi Ying, Lim Jia Ying, Ooi Wei Jin
 
 **Problem Statement:** Stress & Workload Manager
@@ -248,7 +248,8 @@ Mellow's novelty lies in combining **multi-dimensional workload measurement, cap
 | **Version Control** | **GitHub** | Supports team collaboration, feature branches, and version tracking. | **Constraint:** Merge conflicts. **Mitigation:** Separate work by feature and use regular merges. |
 
 ## 🔄 System Architecture
-![SystemArchitecture](images/Mellow_SystemArchitectureDiagram.png)
+![SystemArchitecture](<img width="1106" height="962" alt="mellow architecture" src="https://github.com/user-attachments/assets/c74b5684-54dc-43ca-a064-910a389f72cc" />
+)
 
 ## 🛠️ Build Plan & Scope
 
