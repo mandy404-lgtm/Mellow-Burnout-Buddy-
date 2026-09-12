@@ -1,9 +1,8 @@
-# Mellow
-MELLOW by COLL666
-Team: Chuah Yan Shen, Lim Zhi Ying, Lim Jia Ying, Ooi Wei Jin 
-Problem Statement: Stress & Workload Manager
-Video Presentation: [Unlisted Youtube Link] 
-Presentation Slides: [Public Link] 
+# MELLOW by COLL666
+**Team:** Chuah Yan Shen, Lim Zhi Ying, Lim Jia Ying, Ooi Wei Jin
+**Problem Statement:** Stress & Workload Manager
+**Video Presentation:** [Unlisted Youtube Link] 
+**Presentation Slides:** [Public Link] 
 
 # 📌 Project Overview
 
