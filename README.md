@@ -111,7 +111,7 @@ This problem tree explores the **root causes and effects** of students strugglin
 
 ## 🔄 Flowcharts
 
-![Flowchart]()
+![Flowcharts](images/Mellow_flowchart.png)
 
 This flowchart shows how **Mellow's capacity-management system** transforms user energy and workload data into a Capacity Used Score. It demonstrates how the system progresses from normal task management to early warnings, circuit-breaker protection, task rebalancing, and personalised recovery.
 
@@ -209,7 +209,7 @@ Mellow's novelty lies in combining **multi-dimensional workload measurement, cap
 | **Version Control** | **GitHub** | Supports team collaboration, feature branches, and version tracking. | **Constraint:** Merge conflicts. **Mitigation:** Separate work by feature and use regular merges. |
 
 ## 🔄 System Architecture
-![SystemArchitecture]()
+![SystemArchitecture](images/Mellow_SystemArchitectureDiagram.png)
 
 ## 🛠️ Build Plan & Scope
 
