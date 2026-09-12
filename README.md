@@ -105,7 +105,7 @@ This mindmap maps out how **Mellow** helps students monitor stress and manage wo
 
 ## 🌳 Problem Trees
 
-![Problem Tree](images/problem-tree.png)
+![Problem Tree](images/Mellow_problemtree.jpg)
 
 This problem tree explores the **root causes and effects** of students struggling to manage their overall workload. It connects issues such as low capacity awareness, poor prioritisation, weak boundaries, and delayed recognition of overload to mental, physical, social, and academic impacts.
 
