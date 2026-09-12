@@ -98,7 +98,8 @@ This helps students:
 ##  2.2 Ideation Boards
 ## 🧠 Mindmaps
 
-![Mindmaps]()
+<img width="2521" height="1351" alt="Ideation Process 1 0 drawio" src="https://github.com/user-attachments/assets/55ca5186-a282-4867-b8b1-de1d1c959283" />
+
 
 This mindmap maps out how **Mellow** helps students monitor stress and manage workload before reaching overload. It connects daily tasks, real-time capacity tracking, smart recommendations, workload rebalancing, and recovery actions.
 
