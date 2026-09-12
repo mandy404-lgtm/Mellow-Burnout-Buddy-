@@ -117,9 +117,36 @@ This flowchart shows how **Mellow's capacity-management system** transforms user
 
 ## 👤 User Flows
 
-![User Flow]()
+**1. Daily Check-In Flow**
+![Daily Check-In](images/user%20flow-check%20in.png)
 
-This user flow illustrates the **student's journey through Mellow**, from checking their current capacity and adding tasks to receiving workload warnings, rebalancing tasks, and completing recovery actions when they become overloaded.
+This shows how the user starts their day in the app, with different paths for new and returning users:
+* **New Users:** Complete the 5-step assessment, select their daily energy ("Low," "Okay," or "High"), and enter the Home Dashboard.
+* **Returning Users:** Skip directly to the daily energy selection, then enter the Home Dashboard.
+
+**2. Adding a Task Flow**
+![Adding a Task](images/add%20task.drawio.png)
+
+When the user adds a new task via the "Tasks" tab, the system responds based on their resulting workload capacity:
+* **Under 65%:** The task is added to the list normally.
+* **Hits 65%:** The task is added, but triggers a heavy load warning alert.
+* **Hits 80%:** The new task is paused, and the AI recommendation screen appears. If the user accepts the AI's advice, the new stressful task is not added.
+
+**3. Rebalance Flow**
+![Rebalance Schedule](images/rebalance.drawio.png)
+
+To rebalance an overloaded schedule via the "Analytic" tab, the user can:
+* **Skip:** Tap "I'll handle myself" to reject all AI suggestions.
+* **Modify:** Select "Remove" or "Move to later" only for tasks to change, and simply ignore the options if no changes are needed.
+* **Cancel Events:** Tap the chat bubble to copy an AI-generated cancellation message.
+* **Apply:** Tap "Rebalance My Schedule" to update the timeline and view personalized AI recovery suggestions.
+
+**4. Recovery Nudge Flow**
+![Recovery Nudge](images/recovery%20nudge%20flow.drawio.png)
+
+To restore energy via the "Recovery" tab, the user can update their status in two ways:
+* **Individual:** Tap "Done" next to a specific completed activity (e.g., 15-minute walk).
+* **All at once:** Tap the yellow "I'm ready" button to automatically mark all activities as finished.
 
 
 ## 🧑‍🏫 2.3 Mentor Consultation
