@@ -3,9 +3,9 @@
 
 **Problem Statement:** Stress & Workload Manager
 
-**Video Presentation:** [(https://youtu.be/VQji2f4LuJc)] 
+**Video Presentation:** [https://youtu.be/VQji2f4LuJc] 
 
-**Presentation Slides:** [(https://canva.link/b81s192tfaryhkr)] 
+**Presentation Slides:** [https://canva.link/b81s192tfaryhkr] 
 
 # 📌 Project Overview
 
