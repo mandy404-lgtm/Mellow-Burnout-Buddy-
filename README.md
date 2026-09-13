@@ -7,7 +7,7 @@
 
 **Presentation Slides:** [https://canva.link/b81s192tfaryhkr] 
 
-# 📌 Project Overview
+# 📌1. Project Overview
 
 ## 🚨 The Problem
 
@@ -82,7 +82,7 @@ This helps students:
 - **Auto-Rearranger:** Reschedules postponable errands and social activities based on predefined rules.
 
 
-2. Ideation & Process
+#  2. Ideation & Process
 ## 💭 2.1 Ideas We Considered
 
 | Idea | Decision & Rationale |
@@ -175,7 +175,7 @@ To restore energy via the "Recovery" tab, the user can update their status in tw
 | **10/9/2026** | **Teng Wei Herr** | Keep engagement lightweight and avoid strict streaks. | Removed streaks and focused on simple, low-pressure interactions such as mascot check-ins. |
 
 
-3. Design & Prototype
+#  3. Design & Prototype
 UI Prototype: https://www.figma.com/proto/Z5bfmgFRdOzC3FEHma1vk5/Mellow--Real-Prototype-?node-id=6-711&p=f&t=a2nfJ5dnzjCWw9Xt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A711&show-proto-sidebar=1
 
 |<img width="245" height="572" alt="Screenshot 2026-09-13 000724" src="https://github.com/user-attachments/assets/467f45f9-e630-46f7-a08f-935f1707ffe3" />|<img width="251" height="550" alt="Screenshot 2026-09-12 214616" src="https://github.com/user-attachments/assets/94e6f9f5-8ba1-4a8d-9f62-fb0cd22d01a2" />|
